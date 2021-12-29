@@ -1,0 +1,18 @@
+[
+   {
+      "projectUrl":"",
+      "provider":"Custom swapper provider",
+      "name":"Custom swapper",
+      "description":"Custom swapper description",
+      "id":"customswapper",
+      "releases":[
+         {
+            "date":"2021-12-28",
+            "sha512sum":"879186A3F59A0FF3D1F45771F4A697C6407C4C85DFC143D85B0D513D5E58379F3B450614666739BB1EAC8EE1D76FE50A780B32D36D91E631F7B61CF6151508D5",
+            "version":"1.0.0",
+            "url":"https://github.com/Pvff13/plugins-test/blob/master/release/customswapper.jar?raw=true",
+            "requires":"^1.0.0"
+         }
+      ]
+  }
+ ]
