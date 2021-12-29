@@ -4,7 +4,7 @@
       "provider":"Custom swapper provider",
       "name":"Custom swapper",
       "description":"Custom swapper description",
-      "id":"zcustomswapper",
+      "id":"menuentryswapper",
       "releases":[
          {
             "date":"2021-12-28",
