@@ -8,7 +8,7 @@
       "releases":[
          {
             "date":"2021-12-28",
-            "sha512sum":"8D57726CAA93FEE17E840CF2183862D2EBFCDC1576AB1E401E0299D0224552FA11C7C95C01844D5C10971B405F019DAE7B1A535A5A104C5B64D650C621473B57",
+            "sha512sum":"68f32db74cc1bd5cbb46dd49db02d9ffe235cae6d73992607c1f5e26580782bfc880060bd14f6732429d4b54716ca865b1fb9e5a4cfc7e38499683c006a9f8df",
             "version":"1.0.0",
             "url":"https://github.com/Pvff13/plugins-test/blob/master/release/zcustomswapper.jar?raw=true",
             "requires":"^1.0.0"
